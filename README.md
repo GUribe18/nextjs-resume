@@ -15,4 +15,4 @@ A single-page application built with Next.js (App Router) and styled exclusively
 - [x] Page loads without browser console errors
 
 ## Known Issues
-- None. Layout is fully functional and optimized for desktop viewports.
+- slight visual issue with the technical skills section with bullet points blocking some of the text. other than that, layout is fully functional and optimized for desktop viewports.
